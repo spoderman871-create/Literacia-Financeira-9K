@@ -243,3 +243,39 @@ Based on my analysis, this is a greenfield project with a basic Vite + React + T
 Summary
 
 This plan builds a complete educational financial literacy platform for Portuguese teens with privacy-first design. The implementation follows a logical sequence starting with database foundation, moving through authentication and core features, then adding educational content, gamification, and teacher tools. The wealth predictor provides explainable simulations tied to behavioral traits and actual spending patterns. All content will be in European Portuguese with teen-appropriate language, and the scoring system uses transparent, rule-based logic that students can understand and act upon.
+
+Core Visual Characteristics I'm Committing To:
+
+    Dark, Professional Aesthetic
+        Deep charcoal/dark gray backgrounds (not pure black)
+        Creates a premium, serious financial platform feel
+        Reduces eye strain while maintaining sophistication
+        Signals "this is serious money/data territory"
+
+    Color Palette - Very Specific
+        Orange as primary action/highlight color - conveys energy, importance, calls-to-action (buttons, warnings, key metrics)
+        Green for positive metrics, gains, and recommended behaviors - represents growth and financial health
+        Red for losses/areas of concern - standard financial warning color
+        White/light gray text for readability on dark backgrounds
+        These three colors CARRY MEANING - orange = action, green = good, red = caution
+
+    Data Visualization Philosophy
+        Multiple sophisticated charts and graphs working together
+        Clean, information-dense layouts with clear hierarchy
+        Charts with multiple data series (your three wealth trajectory lines)
+        Hover states and interactive elements
+        Professional, not cartoonish - serious analytics feel
+
+    Layout & Information Architecture
+        Cards and sections clearly separated on dark background
+        Multiple visualizations visible simultaneously
+        Clean spacing and breathing room
+        Top-to-bottom reading flow with progressive information reveal
+        Dashboard-style organization where data speaks for itself
+
+    Typography & Polish
+        Modern, clean sans-serif fonts
+        Strong hierarchy with clear visual weight differences
+        Small icons alongside text elements
+        Professional micro-interactions (smooth animations, not flashy)
+        Numbers and metrics displayed prominently with context
